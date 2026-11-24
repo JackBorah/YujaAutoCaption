@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+outputs/
+*.checkpoint.json
+*.lock
+*.xlsx
+.auth/
